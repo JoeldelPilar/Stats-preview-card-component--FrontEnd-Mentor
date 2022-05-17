@@ -77,7 +77,7 @@ span {
 
 .stats {
 	padding: 0.75rem;
-	color: var(--slightly-transparent-white-200);
+	color: var(--white);
 	text-align: center;
 }
 
